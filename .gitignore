@@ -1,5 +1,12 @@
 #DS store file
 
 .DS_Store
+
+# working nb
 CarbonChain_Data_Exploration_working.ipynb
+
+# checkpoints
 .ipynb_checkpoints/
+
+# extra data
+ShipData_Sample_20k.csv
